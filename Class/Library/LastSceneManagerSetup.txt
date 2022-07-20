@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Animater blendtree/animater Scene.unity
+- path: Assets/Navmesh Agent/Scene/Navmesh.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
