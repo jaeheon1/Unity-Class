@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Navmesh Agent/Scene/Navmesh.unity
+- path: Assets/Animator Clip/Scene/AnimationClip.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
